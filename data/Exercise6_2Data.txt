@@ -1,0 +1,15 @@
+% Homogeneous Shear Flow Data from Tavoularis and Karnik (J. Fluid Mech, 204:457–478, 1989)
+% available at https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM22/HOM22KT/
+% This data is for case A, where Uc = 13 m/s, Shear = 84 s^-1.
+% Tau is the non-dimensional downstream distance from the grid representing the total strain
+% uu, vv, ww are the normal stresses (m^2/s^2)
+% uv is the Reynolds stress (m^2/s^2)
+
+Tau,uu,vv,ww,uv
+7.9,0.29382,0.1357,0.16048,-0.09971
+9.8,0.358778,0.146804,0.180418,-0.114562
+13.1,0.494966,0.196669,0.249365,-0.156206
+16.4,0.673308,0.258672,0.33602,-0.20922
+19.7,0.915276,0.35137,0.447354,-0.28281
+23,1.263235,0.469335,0.60243,-0.385275
+26.3,1.744,0.6272,0.8288,-0.5216
