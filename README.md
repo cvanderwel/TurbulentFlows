@@ -1,18 +1,18 @@
 # Turbulence
-This repository contains the Data and Code supporting the end-of-chatper exercises in the eBook by Castro and Vanderwel (2021)
 
-<img src="book_cover.jpg" align="right">
+<img src="book_cover.jpg" alt="Book cover" width="300" height="200" align="right">
+
+This repository contains the Data and Code supporting the end-of-chapter exercises in the eBook by Castro and Vanderwel (2021)
 
 > Ian Castro and Christina Vanderwel, 
 [_Turbulent Flows: An Introduction,_](https://www.iop.org/) IOP, 2021.
 
 
-The examples are used in my course [CS 7331 Data Mining](http://michael.hahsler.net/SMU/EMIS7331) held at SMU and will be regularly updated and improved. 
+The examples are  also used in the module <b>SESA6061 Turbulence</b> at the University of Southampton will be regularly updated and improved. 
 All code is shared under the creative commons attribution license and you can
-share and adapt them freely. Please contact open an [issue](issues)  
-for corrections or to suggest improvements. 
+share and adapt them freely. Please contact open an [issue](issues) for corrections or to suggest improvements. 
 
-Last updated: 11 June 2021
+Last updated: 17 June 2021
 
 
 ## Data Analysis Exercises
