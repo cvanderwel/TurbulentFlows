@@ -9,8 +9,8 @@ This repository contains the Data and Code supporting the end-of-chapter exercis
 
 
 The examples are  also used in the module <b>SESA6061 Turbulence</b> at the University of Southampton will be regularly updated and improved. 
-All code is shared under the creative commons attribution license and you can
-share and adapt them freely. Please contact open an [issue](issues) for corrections or to suggest improvements. 
+
+All code is shared under the MIT license and you can share and adapt it freely. Please open an [issue](issues) for corrections or to suggest improvements. 
 
 Last updated: 17 June 2021
 
@@ -18,21 +18,33 @@ Last updated: 17 June 2021
 ## Data Analysis Exercises
 
 
-| Chapter | Data | Code | Sample Book Chapters|  
+| Chapter | Exercise | Data | Code |  
 | :--------| :---: | :----: | :--: |
-| 1. Introduction | [Slides](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap1_intro.pdf) | No code | |
-| 2. Data | Slides: [Data](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap2_data.pdf), [Exploration](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap2_exploration.pdf) | R Code: [Data](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap2.html), [Exploration](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap2_exploring.html) | |
-| 3. Classification: Basic Concepts and Techniques | [Slides](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap3_basic_classification.pdf) | [R Code](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap3.html) | [Read Chapter 3](https://www-users.cs.umn.edu/~kumar001/dmbook/ch3_classification.pdf) |
-| 4. Classification: Alternative Techniques | [Slides](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap4_alternative_classification.pdf) | R Code: [Techniques](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap4.html), [Decision boundaries](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap4_decisionboundary.html), [Deep Learning](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap4_keras.html) | |
-| 5. Association Analysis: Basic Concepts and Algorithms | [Slides](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap5_basic_association_analysis.pdf) | R Code: [Association rule mining](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap5.html), [Interactive visualization](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap5_interactive.html) | [Read Chapter 5](https://www-users.cs.umn.edu/~kumar001/dmbook/ch5_association_analysis.pdf) |
-| 7. Cluster Analysis: Basic Concepts and Algorithms | [Slides](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/slides/chap7_basic_cluster_analysis.pdf) | [R Code](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/code/chap7.html) | [Read Chapter 7](https://www-users.cs.umn.edu/~kumar001/dmbook/ch7_clustering.pdf) |
+| 1. Overall Introduction | Exercise 1.1 | [WindtunnelSample1](Data/WindtunnelSample1.txt) | Link to code |
+| 2. The governing equations | No exercises | | |
+| 3. Transport equations | No exercises | | |
+| 4. The scales of motion | No exercises | | |
+| 5. Statistical functions and tools | Exercise 5.3 | [WindtunnelSample1](Data/WindtunnelSample1.txt) | Link to code |
+|  | Exercise 5.4 | [WindtunnelSample1](Data/WindtunnelSample1.txt) | Link to code |
+|  | Exercise 5.6 | No Data | Link to code |
+|  | Exercise 5.7 | No Data | Link to code |
+| 6. Canonical turbulent flows | Exercise 6.1 | Link to data | Link to code |
+|  | Exercise 6.2 | Link to data | Link to code |
+| 7. Free turbulent shear flows | Exercise 7.1 | Link to data | Link to code |
+|  | Exercise 7.2 | Link to data | Link to code |
+| 8. Internal wall-bounded flows | Exercise 8.4 | Link to data | Link to code |
+|  | Exercise 8.5 | Link to data | Link to code |
+| 9. External wall-bounded flows | Exercise 9.1 | Link to data | Link to code |
+|  | Exercise 9.2 | Link to data | Link to code |
+|  | Exercise 9.3 | Link to data | Link to code |
+| 10. Turbulent mixing | Exercise 10.1 | Link to data | Link to code |
+|  | Exercise 10.2 | Link to data | Link to code |
+|  | Exercise 10.3 | Link to data | Link to code |
 
-The data files and the programs can be found in the repository directories [data](data) and [code](code).
+All the data files and the programs can also be found in the repository directories [data](data) and [code](code).
 
 ## License
-All code and documents in this repository are provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/)
-
-![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+The code in this repository is provided under [MIT LICENSE](LICENSE) which means you are free to use, copy, and modify the content to help you learn about turbulent flows.
  
  For questions please contact
  [Christina Vanderwel](https://www.southampton.ac.uk/engineering/about/staff/cmv1n13.page).
