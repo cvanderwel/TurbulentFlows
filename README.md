@@ -2,7 +2,7 @@
 
 <img src="book_cover.jpg" alt="Book cover" width="300" height="200" align="right">
 
-This repository contains the Data and Code supporting the end-of-chapter exercises in the eBook by Castro and Vanderwel (2021)
+This repository contains the Data and Code supporting the end-of-chapter exercises for the eBook:
 
 > Ian Castro and Christina Vanderwel, 
 [_Turbulent Flows: An Introduction,_](https://www.iop.org/) IOP, 2021.
@@ -10,7 +10,11 @@ This repository contains the Data and Code supporting the end-of-chapter exercis
 
 The examples are  also used in the module <b>SESA6061 Turbulence</b> at the University of Southampton will be regularly updated and improved. 
 
-All code is shared under the MIT license and you can share and adapt it freely. Please open an [issue](issues) for corrections or to suggest improvements. 
+Students are encouraged to try to solve the data analysis exercises on their own, before looking at the worked solutions; however, documented MATLAB codes are provided illustrating the solutions to each exercise. 
+
+We hope to also provide solutions in other programming languagues such as Python in the near future. If you would like to contribute or suggest improvement, please open an [issue](issues). 
+
+All code is shared under the MIT license and you can share and adapt it freely. 
 
 Last updated: 17 June 2021
 
