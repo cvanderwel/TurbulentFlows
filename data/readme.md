@@ -1,7 +1,5 @@
 This folder contains all the data files necessary for the sample exercises.
 
-## Summary of data files and their sources
-
 | Exercise | Data File Name | Source |  
 | :--------| :---: | :----: | 
 | Exercise 1.1 |[WindtunnelSample1](Data/WindtunnelSample1.txt) | Author's own lab |
