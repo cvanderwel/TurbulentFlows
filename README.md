@@ -34,7 +34,7 @@ Last updated: 29 July 2021
 | 8. Internal wall-bounded flows	| Ex8.1-8.2: TBLData.txt <br> Ex8.3: RoughnessData.txt | 	Ex8_1Solution.m <br> Ex8_2Solution.m <br> Ex8_3Solution.m	|  | 
 | 9. Turbulent mixing |	Ex9.4: PlumeData1.txt <br> and PlumeData2.txt	| Ex9_4Solution.m	| Coming soon… | 
 
-All the question sets, data files, code, and worked solutions can also be found in the repository directories [questions](questions), [data](data), [code](code), and [solutions](solutions).
+All the question sets, data files, code, and worked solutions to the analytical problems can also be found in the repository directories [questions](questions), [data](data), [code](code), and [solutions](solutions).
 
 ## License
 The code in this repository is provided under [MIT LICENSE](LICENSE) which means you are free to use, copy, and modify the content to help you learn about turbulent flows.
