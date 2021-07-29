@@ -24,7 +24,7 @@ Last updated: 29 July 2021
 
 | Sample Exercises |	Data	| Codes	| Worked Solutions | 
 | :----------------| :---: | :----: | :------------: |
-| Ch 1. Overall Introduction	| Ex1.1: WindtunnelSample1.txt	| Ex1_1Solution.m	| Coming soon… | 
+| [Ch 1. Overall Introduction](questions/Ch1Exercises.pdf)	| Ex1.1: [WindtunnelSample1.txt](data/WindtunnelSample1.txt)	| Ex1_1Solution.m	| Coming soon… | 
 | Ch 2. The governing equations	| No Data Files	| No Code required	| Coming soon… | 
 | Ch 3. The scales of motion	| No Data Files	| No Code required	| Coming soon… | 
 | Ch 4. Statistical functions and tools	| Ex4.3: WindtunnelSample1.txt <br> Ex4.4: WindtunnelSample2.txt	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_6PdfCode.m <br> Ex4_7SpectraCode.m	| Coming soon… | 
