@@ -12,40 +12,29 @@ The examples are  also used in the module <b>SESA6061 Turbulence</b> at the Univ
 
 Students are encouraged to try to solve the data analysis exercises on their own, before looking at the worked solutions; however, documented MATLAB codes are provided illustrating the solutions to each exercise. 
 
-We hope to also provide solutions in other programming languagues such as Python in the near future. If you would like to contribute or suggest improvement, please open an [issue](issues). 
+We hope to also provide solutions in other programming languagues such as Python in the near future. If you would like to contribute or suggest improvement, please contact the author at c.m.vanderwel@soton.ac.uk. 
 
 All code is shared under the MIT license and you can share and adapt it freely. 
 
-Last updated: 17 June 2021
+Last updated: 29 July 2021
 
 
-## Data Analysis Exercises
+## Sample Exercises
 
 
-| Chapter | Exercise | Data | Code |  
-| :--------| :---: | :----: | :--: |
-| 1. Overall Introduction | Exercise 1.1 | [WindtunnelSample1](Data/WindtunnelSample1.txt) | Link to code |
-| 2. The governing equations | No exercises | | |
-| 3. Transport equations | No exercises | | |
-| 4. The scales of motion | No exercises | | |
-| 5. Statistical functions and tools | Exercise 5.3 | [WindtunnelSample1](Data/WindtunnelSample1.txt) | Link to code |
-|  | Exercise 5.4 | [WindtunnelSample1](Data/WindtunnelSample1.txt) | Link to code |
-|  | Exercise 5.6 | No Data | Link to code |
-|  | Exercise 5.7 | No Data | Link to code |
-| 6. Canonical turbulent flows | Exercise 6.1 | Link to data | Link to code |
-|  | Exercise 6.2 | Link to data | Link to code |
-| 7. Free turbulent shear flows | Exercise 7.1 | Link to data | Link to code |
-|  | Exercise 7.2 | Link to data | Link to code |
-| 8. Internal wall-bounded flows | Exercise 8.4 | Link to data | Link to code |
-|  | Exercise 8.5 | Link to data | Link to code |
-| 9. External wall-bounded flows | Exercise 9.1 | Link to data | Link to code |
-|  | Exercise 9.2 | Link to data | Link to code |
-|  | Exercise 9.3 | Link to data | Link to code |
-| 10. Turbulent mixing | Exercise 10.1 | Link to data | Link to code |
-|  | Exercise 10.2 | Link to data | Link to code |
-|  | Exercise 10.3 | Link to data | Link to code |
+| Sample Exercises |	Data	| Codes	| Worked Solutions | 
+| :----------------| :---: | :----: | :------------: |
+| Ch 1. Overall Introduction	| Ex1.1: WindtunnelSample1.txt	| Ex1.1: Ex1_1Solution.m	| Coming soon… | 
+| Ch 2. The governing equations	| No Data Files	| No Code required	| Coming soon… | 
+| Ch 3. The scales of motion	| No Data Files	| No Code required	| Coming soon… | 
+| Ch 4. Statistical functions and tools	| Ex4.3: WindtunnelSample1.txt <br> Ex4.4: WindtunnelSample2.txt	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_6PdfCode.m <br> Ex4_7SpectraCode.m	| Coming soon… | 
+| 5. Canonical turbulent flows	| Ex5.1: HITData.txt <br> Ex5.2: HSFData.txt | 	Ex5_1Solution.m <br> Ex5_2Solution.m	| Coming soon… | 
+| 6. Free turbulent shear flows	| Ex6.1: MixingLayerData.txt <br> Ex6.2: WakeData.txt 	| Ex6_1Solution.m <br> Ex6_2Solution.m	| Coming soon… | 
+| 7. Internal wall-bounded flows	| Ex7.4: ChannelData.txt <br> Ex7.5: PipeData.txt 	| Ex7_4Solution.m <br> Ex7_5Solution.m	| Coming soon… | 
+| 8. Internal wall-bounded flows	| Ex8.1-8.2: TBLData.txt <br> Ex8.3: RoughnessData.txt | 	Ex8_1Solution.m <br> Ex8_2Solution.m <br> Ex8_3Solution.m	| Coming soon… | 
+| 9. Turbulent mixing |	Ex9.4: PlumeData1.txt <br> and PlumeData2.txt	| Ex9_4Solution.m	| Coming soon… | 
 
-All the data files and the programs can also be found in the repository directories [data](data) and [code](code).
+All the question sets, data files, code, and worked solutions can also be found in the repository directories [questions](questions), [data](data), [code](code), and [solutions](solutions).
 
 ## License
 The code in this repository is provided under [MIT LICENSE](LICENSE) which means you are free to use, copy, and modify the content to help you learn about turbulent flows.
