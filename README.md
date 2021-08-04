@@ -31,7 +31,7 @@ Last updated: 29 July 2021
 | 5. Canonical turbulent flows	| Ex5.1: HITData.txt <br> Ex5.2: [HSFData.txt](data/HSFData.txt) | 	Ex5_1Solution.m <br> [Ex5_2Solution.m](code/Ex5_2Solution.m)	| Coming soon… | 
 | 6. Free turbulent shear flows	| Ex6.1: [MixingLayerData.txt](data/MixingLayerData.txt) <br> Ex6.2: [WakeData.txt](data/WakeData.txt) 	| [Ex6_1Solution.m](code/Ex6_1Solution.m) <br> [Ex6_2Solution.m](code/Ex6_2Solution.m)	|  | 
 | 7. Internal wall-bounded flows	| Ex7.4: [ChannelData.txt](data/ChannelData.txt) <br> Ex7.5: [PipeData.txt](data/PipeData.txt) 	| [Ex7_4Solution.m](code/Ex7_4Solution.m) <br> [Ex7_5Solution.m](code/Ex7_5Solution.m)	| Coming soon… | 
-| 8. Internal wall-bounded flows	| Ex8.1-8.2: [TBLData.txt](data/TBLData.txt) <br> Ex8.3: RoughnessData.txt | 	[Ex8_1Solution.m](code/Ex8_1Solution.m) <br> [Ex8_2Solution.m](code/Ex8_2Solution.m) <br> Ex8_3Solution.m	|  | 
+| 8. Internal wall-bounded flows	| Ex8.1-8.2: [TBLData.txt](data/TBLData.txt) <br> Ex8.3: [RoughWallData.txt](data/RoughWallData.txt) | 	[Ex8_1Solution.m](code/Ex8_1Solution.m) <br> [Ex8_2Solution.m](code/Ex8_2Solution.m) <br> [Ex8_3Solution.m](code/Ex8_3Solution.m)	|  | 
 | 9. Turbulent mixing |	Ex9.4: [PlumeData1.txt](data/PlumeData1.txt) <br> and [PlumeData2.txt](data/PlumeData2.txt)	| [Ex9_4Solution.m](code/Ex9_4Solution.m)	| Coming soon… | 
 
 All the question sets, data files, code, and worked solutions to the analytical problems can also be found in the repository directories [questions](questions), [data](data), [code](code), and [solutions](solutions).
