@@ -24,15 +24,15 @@ Last updated: 29 July 2021
 
 | Sample Exercises |	Data	| Codes	| Analytical Solutions | 
 | :----------------| :---: | :----: | :------------: |
-| [Ch 1. Overall Introduction](questions/Ch1Exercises.pdf)	| Ex1.1: [WindtunnelSample1.txt](data/WindtunnelSample1.txt)	| [Ex1_1Solution.m](code/Ex1_1Solution.m)	| | 
-| Ch 2. The governing equations	| No Data Files	| No Code required	| Coming soon… | 
-| Ch 3. The scales of motion	| No Data Files	| No Code required	| Coming soon… | 
-| Ch 4. Statistical functions and tools	| Ex4.3: [WindtunnelSample1.txt](data/WindtunnelSample1.txt) <br> Ex4.4: WindtunnelSample2.txt	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_6PdfCode.m <br> Ex4_7SpectraCode.m	| Coming soon… | 
-| 5. Canonical turbulent flows	| Ex5.1: HITData.txt <br> Ex5.2: [HSFData.txt](data/HSFData.txt) | 	Ex5_1Solution.m <br> [Ex5_2Solution.m](code/Ex5_2Solution.m)	| Coming soon… | 
-| 6. Free turbulent shear flows	| Ex6.1: [MixingLayerData.txt](data/MixingLayerData.txt) <br> Ex6.2: [WakeData.txt](data/WakeData.txt) 	| [Ex6_1Solution.m](code/Ex6_1Solution.m) <br> [Ex6_2Solution.m](code/Ex6_2Solution.m)	|  | 
-| 7. Internal wall-bounded flows	| Ex7.4: [ChannelData.txt](data/ChannelData.txt) <br> Ex7.5: [PipeData.txt](data/PipeData.txt) 	| [Ex7_4Solution.m](code/Ex7_4Solution.m) <br> [Ex7_5Solution.m](code/Ex7_5Solution.m)	| Coming soon… | 
-| 8. Internal wall-bounded flows	| Ex8.1-8.2: [TBLData.txt](data/TBLData.txt) <br> Ex8.3: [RoughWallData.txt](data/RoughWallData.txt) | 	[Ex8_1Solution.m](code/Ex8_1Solution.m) <br> [Ex8_2Solution.m](code/Ex8_2Solution.m) <br> [Ex8_3Solution.m](code/Ex8_3Solution.m)	|  | 
-| 9. Turbulent mixing |	Ex9.4: [PlumeData1.txt](data/PlumeData1.txt) <br> and [PlumeData2.txt](data/PlumeData2.txt)	| [Ex9_4Solution.m](code/Ex9_4Solution.m)	| Coming soon… | 
+| [Ch 1. Overall Introduction](questions/Ch1Exercises.pdf)	| Ex1.1: [WindtunnelSample1.txt](data/WindtunnelSample1.txt)	| [Ex1_1Solution.m](code/Ex1_1Solution.m)	| Coming soon… | 
+| Ch 2. The governing equations	| No Data Files	| No Code required	|  | 
+| Ch 3. The scales of motion	| No Data Files	| No Code required	| | 
+| Ch 4. Statistical functions and tools	| Ex4.3: [WindtunnelSample1.txt](data/WindtunnelSample1.txt) <br> Ex4.4: WindtunnelSample2.txt	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_6PdfCode.m <br> Ex4_7SpectraCode.m	|  | 
+| 5. Canonical turbulent flows	| Ex5.1: HITData.txt <br> Ex5.2: [HSFData.txt](data/HSFData.txt) | 	Ex5_1Solution.m <br> [Ex5_2Solution.m](code/Ex5_2Solution.m)	|  | 
+| [6. Free turbulent shear flows](questions/Ch6Exercises.pdf)	| Ex6.1: [MixingLayerData.txt](data/MixingLayerData.txt) <br> Ex6.2: [WakeData.txt](data/WakeData.txt) 	| [Ex6_1Solution.m](code/Ex6_1Solution.m) <br> [Ex6_2Solution.m](code/Ex6_2Solution.m)	|  | 
+| [7. Internal wall-bounded flows](questions/Ch7Exercises.pdf)	| Ex7.4: [ChannelData.txt](data/ChannelData.txt) <br> Ex7.5: [PipeData.txt](data/PipeData.txt) 	| [Ex7_4Solution.m](code/Ex7_4Solution.m) <br> [Ex7_5Solution.m](code/Ex7_5Solution.m)	| | 
+| [8. Internal wall-bounded flows](questions/Ch8Exercises.pdf)	| Ex8.1-8.2: [TBLData.txt](data/TBLData.txt) <br> Ex8.3: [RoughWallData.txt](data/RoughWallData.txt) | 	[Ex8_1Solution.m](code/Ex8_1Solution.m) <br> [Ex8_2Solution.m](code/Ex8_2Solution.m) <br> [Ex8_3Solution.m](code/Ex8_3Solution.m)	|  | 
+| [9. Turbulent mixing](questions/Ch9Exercises.pdf) |	Ex9.4: [PlumeData1.txt](data/PlumeData1.txt) <br> and [PlumeData2.txt](data/PlumeData2.txt)	| [Ex9_4Solution.m](code/Ex9_4Solution.m)	|  | 
 
 All the question sets, data files, code, and worked solutions to the analytical problems can also be found in the repository directories [questions](questions), [data](data), [code](code), and [solutions](solutions).
 
