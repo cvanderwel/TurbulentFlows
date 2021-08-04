@@ -1,12 +1,11 @@
 # Turbulent Flows: an Introduction
 
-<img src="book_cover.jpg" alt="Book cover" width="300" height="200" align="right">
-
-This repository contains the Data and Code supporting the end-of-chapter exercises for the eBook:
+This GitHub webpage hosts the Data and Code supporting the end-of-chapter sample exercises for the eBook:
 
 > Ian Castro and Christina Vanderwel, 
 [_Turbulent Flows: An Introduction,_](https://www.iop.org/) IOP, 2021.
 
+<img src="book_cover.jpg" alt="Book cover" width="300" height="200" align="centre">
 
 The examples are  also used in the module <b>SESA6061 Turbulence</b> at the University of Southampton will be regularly updated and improved. 
 
