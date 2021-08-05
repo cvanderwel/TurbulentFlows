@@ -8,7 +8,7 @@ clear all;
 close all;
 
 % Load the data
-U = readmatrix('WindtunnelSample1.txt');
+U = readmatrix('TurbulenceSample.txt');
 
 % Set up a time variable
 acq_freq = 60000; %sampling frequency is 60kHz
@@ -22,4 +22,6 @@ xlabel('t (s)'); ylabel('U (m/s)')
 %% b) Calculate the mean of the signal.
 Um = mean(U) %calculate the mean of the signal
 
+%% c) Calculate the variance
+Uvar = var(U) %calculate the mean of the signal
 
