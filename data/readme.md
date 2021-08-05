@@ -18,6 +18,6 @@ All the data files necessary for the sample exercises:
 
 - [TBLData.txt](TBLData.txt)
 
-- [WakeData.txt](WakeData.txt)
+- [TurbulenceSample.txt](TurbulenceSample.txt)
 
-- [WindtunnelSample1.txt](WindtunnelSample1.txt)
+- [WakeData.txt](WakeData.txt)
