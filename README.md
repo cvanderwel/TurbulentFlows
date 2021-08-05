@@ -37,7 +37,7 @@ You may access all the [question sets](questions), [data files](data), [code](co
 | :--------| :---: | :----: | 
 | Ex1.1 and 4.3	| WindtunnelSample1.txt	| Data curtesy of Takfarinas Medjnoun acquired from the University of Southampton 3x2 windtunnel | 
 | Ex4.4	| WindtunnelSample2.txt	| | 
-| Ex5.1  | HITData.txt |  A.A.Wray (1997) https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM02/CB512.f_t | 
+| Ex5.1  | HITData.txt |  A.A.Wray (1997) [https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM02/CB512.f_t](https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM02/CB512.f_t) | 
 | Ex5.2  | HSFData.txt |	 Tavoularis & Karnik (1989) J. Fluid Mech, 204:457–478. https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM22/HOM22KT/ | 
 | Ex6.1  | MixingLayerData.txt | 	Delville & Bonnet (1995) https://torroja.dmt.upm.es/turbdata/agard/chapter6/SHL04 | 
 | Ex6.2  | WakeData.txt	| Nakayama (1985) J. Fluid Mech., 160:155-179. https://turbmodels.larc.nasa.gov/airfoilwake_val.html| 
