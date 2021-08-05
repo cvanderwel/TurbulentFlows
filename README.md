@@ -21,10 +21,10 @@ You may access all the [question sets](questions), [data files](data), [code](co
 
 | Sample Exercises |	Data	| Codes	| Analytical Solutions | 
 | :----------------| :---: | :----: | :------------: |
-| [Ch 1. Overall Introduction](questions/Ch1Exercises.pdf)	| Ex1.1: [WindtunnelSample1.txt](data/WindtunnelSample1.txt)	| [Ex1_1Solution.m](code/Ex1_1Solution.m)	| Coming soon… | 
+| [Ch 1. Overall Introduction](questions/Ch1Exercises.pdf)	| Ex1.1: [TurbulenceSample.txt](data/TurbulenceSample.txt)	| [Ex1_1Solution.m](code/Ex1_1Solution.m)	| Coming soon… | 
 | Ch 2. The governing equations	| No Data Files	| No Code required	|  | 
 | Ch 3. The scales of motion	| No Data Files	| No Code required	| | 
-| Ch 4. Statistical functions and tools	| Ex4.3: [WindtunnelSample1.txt](data/WindtunnelSample1.txt) <br> Ex4.4: WindtunnelSample2.txt	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_6PdfCode.m <br> Ex4_7SpectraCode.m	|  | 
+| Ch 4. Statistical functions and tools	| Ex4.3: [TurbulenceSample.txt](data/TurbulenceSample.txt) <br> Ex4.4: WindtunnelSample2.txt	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_6PdfCode.m <br> Ex4_7SpectraCode.m	|  | 
 | [5. Canonical turbulent flows](questions/Ch5Exercises.pdf)	| Ex5.1: [HITData.txt](data/HITData.txt) <br> Ex5.2: [HSFData.txt](data/HSFData.txt) | 	[Ex5_1Solution.m](code/Ex5_1Solution.m) <br> [Ex5_2Solution.m](code/Ex5_2Solution.m)	|  | 
 | [6. Free turbulent shear flows](questions/Ch6Exercises.pdf)	| Ex6.1: [MixingLayerData.txt](data/MixingLayerData.txt) <br> Ex6.2: [WakeData.txt](data/WakeData.txt) 	| [Ex6_1Solution.m](code/Ex6_1Solution.m) <br> [Ex6_2Solution.m](code/Ex6_2Solution.m)	|  | 
 | [7. Internal wall-bounded flows](questions/Ch7Exercises.pdf)	| Ex7.4: [ChannelData.txt](data/ChannelData.txt) <br> Ex7.5: [PipeData.txt](data/PipeData.txt) 	| [Ex7_4Solution.m](code/Ex7_4Solution.m) <br> [Ex7_5Solution.m](code/Ex7_5Solution.m)	| | 
@@ -35,7 +35,7 @@ You may access all the [question sets](questions), [data files](data), [code](co
 
 | Exercise	| Data | Source | 
 | :--------| :---: | :----: | 
-| Ex1.1 and 4.3	| WindtunnelSample1.txt	| Data curtesy of Takfarinas Medjnoun acquired from the University of Southampton 3x2 windtunnel | 
+| Ex1.1 and 4.3	| TurbulenceSample.txt	| Data curtesy of Takfarinas Medjnoun acquired from the University of Southampton 3x2 windtunnel | 
 | Ex4.4	| WindtunnelSample2.txt	| | 
 | Ex5.1  | HITData.txt |  A.A.Wray (1997) [https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM02/CB512.f_t](https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM02/CB512.f_t) | 
 | Ex5.2  | HSFData.txt |	 Tavoularis & Karnik (1989) J. Fluid Mech, 204:457–478. [https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM22/HOM22KT/](https://torroja.dmt.upm.es/turbdata/agard/chapter3/HOM22/HOM22KT/) | 
