@@ -8,6 +8,8 @@ All the data files necessary for the sample exercises:
 
 - [MixingLayerData.txt](MixingLayerData.txt)
 
+- [NoiseSample.txt](NoiseSample.txt)
+
 - [PipeData.txt](PipeData.txt)
 
 - [PlumeData1.txt](PlumeData1.txt)
