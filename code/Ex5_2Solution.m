@@ -23,8 +23,9 @@ opts = detectImportOptions('HSFData.txt');
 preview('HSFData.txt',opts)
 
 % load the data
-[Tau,uu,vv,ww,uv] = readvars('HSFData.txt');
+[tau,uu,vv,ww,uv] = readvars('HSFData.txt');
 
+beta = 84; % shear rate (s^-1)
 
 %% (a)	Calculate the turbulent kinetic energy. Plot it on semilog axes to see how it varies downstream. 
 % Determine whether it grows or decays. 
@@ -32,31 +33,35 @@ preview('HSFData.txt',opts)
 k = 1/2*(uu+vv+ww);
 
 % Plot the data on semilog axes 
-figure; semilogy(Tau,k,'o')
-xlabel('Tau'); ylabel('k (m^2/s^2)')
+figure; semilogy(tau,k,'o')
+xlabel('\tau'); ylabel('k (m^2/s^2)')
 grid on
 
 %% (b) Determine the exponent of the exponential function that best describes the variation 
 % (refering to equation (6.39) where here Tau replaces beta t)?
 
 % Fit a power law
-P4 = polyfit(Tau(2:end),log(k(2:end)),1);
-Tf = 7:27;
-kf = exp(polyval(P4,Tf));
-hold on; semilogy(Tf,kf, 'k-')
+P4 = polyfit(tau(2:end),log(k(2:end)),1);
+kf = exp(polyval(P4,tau));
+hold on; semilogy(tau,kf, 'k-')
 
 % The best fit shows that the power law exponent is:
 P4(1)
+
+% estimate the value of 'a' from (1/beta)(epsilon/k)(P_k/epsilon-1)
+Pr = -uv .* 84; % Production = -uv * Beta
+epsilon = Pr - beta*gradient(k,tau); % Dissipation = Pr - dk/dt
+a = 1/beta * epsilon./k .* (Pr./epsilon-1)
 
 %% (c)  Determine the anisotropy coefficients using equation (6.38).
 
 % Plot all the rest of the data to visualise what it looks like
 hold on;
-semilogy(Tau,uu,'v');
-semilogy(Tau,vv,'^')
-semilogy(Tau,ww,'s')
-semilogy(Tau,-uv,'x')
-xlabel('Tau'); ylabel('u_i u_j (m^2/s^2)')
+semilogy(tau,uu,'v');
+semilogy(tau,vv,'^')
+semilogy(tau,ww,'s')
+semilogy(tau,-uv,'x')
+xlabel('t'); ylabel('u_i u_j (m^2/s^2)')
 grid on
 
 b11 = mean(uu./(2*k))-1/3
