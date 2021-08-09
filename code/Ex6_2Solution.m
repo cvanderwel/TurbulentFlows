@@ -6,7 +6,7 @@
 % of a plane mixing layer generated in a wind tunnel and measured using
 % hot-wire. The data in this example is from a distance of x1 = 800 mm 
 % downstream of the splitting plate, which separates two flows with 
-% freestream velocities of 41.54 m·s-1 (upper) and 22.40 m·s-1 (lower).
+% freestream velocities of 41.54 mÂ·s-1 (upper) and 22.40 mÂ·s-1 (lower).
 % 
 % Full details of the experiment and all raw data is available at
 % https://torroja.dmt.upm.es/turbdata/agard/chapter6/SHL04/
