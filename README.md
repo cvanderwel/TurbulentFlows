@@ -22,7 +22,7 @@ You may access all the [question sets](questions), [data files](data), [code](co
 | Sample Exercises |	Data	| Codes	| Analytical Solutions | 
 | :----------------| :---: | :----: | :------------: |
 | [Ch 1. Overall Introduction](questions/Ch1Exercises.pdf)	| Ex1.1: [TurbulenceSample.txt](data/TurbulenceSample.txt)	| [Ex1_1Solution.m](code/Ex1_1Solution.m)	| Coming soon… | 
-| Ch 2. The governing equations	| No Data Files	| No Code required	|  | 
+| [Ch 2. The governing equations](questions/Ch2Exercises.pdf)	| No Data Files	| No Code required	|  | 
 | [Ch 3. The scales of motion](questions/Ch3Exercises.pdf)	| No Data Files	| No Code required	| | 
 | [Ch 4. Statistical functions and tools](questions/Ch4Exercises.pdf)	| Ex4.3, 4.4, 4.7: [TurbulenceSample.txt](data/TurbulenceSample.txt) <br> Ex4.4, 4.7: [NoiseSample.txt](data/NoiseSample.txt) <br> Ex4.5: [TurbulenceSample2.txt](data/TurbulenceSample2.txt)	| Ex4_3Solution.m <br> Ex4_4Solution.m <br> Ex4_5Solution.m <br> Ex4_7Solution.m	|  | 
 | [Ch 5. Canonical turbulent flows](questions/Ch5Exercises.pdf)	| Ex5.1: [HITData.txt](data/HITData.txt) <br> Ex5.2: [HSFData.txt](data/HSFData.txt) | 	[Ex5_1Solution.m](code/Ex5_1Solution.m) <br> [Ex5_2Solution.m](code/Ex5_2Solution.m)	|  | 
