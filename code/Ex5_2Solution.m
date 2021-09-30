@@ -38,7 +38,7 @@ xlabel('\tau'); ylabel('k (m^2/s^2)')
 grid on
 
 %% (b) Determine the exponent of the exponential function that best describes the variation 
-% (refering to equation (6.39) where here Tau replaces beta t)?
+% (refering to equation (5.39) where here Tau replaces beta t)?
 
 % Fit a power law
 P4 = polyfit(tau(2:end),log(k(2:end)),1);
@@ -53,7 +53,7 @@ Pr = -uv .* 84; % Production = -uv * Beta
 epsilon = Pr - beta*gradient(k,tau); % Dissipation = Pr - dk/dt
 a = 1/beta * epsilon./k .* (Pr./epsilon-1)
 
-%% (c)  Determine the anisotropy coefficients using equation (6.38).
+%% (c)  Determine the anisotropy coefficients using equation (5.38).
 
 % Plot all the rest of the data to visualise what it looks like
 hold on;
