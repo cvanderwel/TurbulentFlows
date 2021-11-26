@@ -51,7 +51,7 @@ hold on; plot(y2,U2,'b-')
 % of the inertial sublayer and the value of Kappa.
 
 dUdy = gradient(Uplus,yplus); % numerical derivative estimating d Uplus / d yplus
-Pi = Uplus .* dUdy;
+Pi = yplus .* dUdy;
 
 figure;
 semilogx(yplus,Pi,'k.'); 
