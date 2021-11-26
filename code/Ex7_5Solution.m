@@ -45,9 +45,10 @@ ylabel('U+')
 y1 = 0:10; % make another variable covering the viscous sublayer range
 U1 = y1; % U+=y+ in the viscous sublayer
 hold on; plot(y1,U1,'r-')
+set(gca,'XScale','log') % set the x-axis to be logarithmic
 
 % What was the location of the closest measurement to the wall in physical units?
-D = 1.2936E-01; % (m)
+D = 1.2936E-01; % diameter of pipe (m)
 display(['The closest measurement to the wall was ' num2str(ys(1)*D/2*1000), ' mm.'])
 % The closest measurement to the wall was approximately 0.5 mm. This means
 % that the viscous sublayer is even smaller than this!!
@@ -59,7 +60,7 @@ axis auto % zoom out to see all the data
 set(gca,'XScale','log') % set the x-axis to be logarithmic
 
 y2 = 600:10000; % make another variable covering the inertial sublayer range
-U2 = 1/0.42 * log(y2) + 5.2; % U+=1/kappa ln(y+) + A in the log-law region
+U2 = 1/0.41 * log(y2) + 5.2; % U+=1/kappa ln(y+) + A in the log-law region
 hold on; plot(y2,U2,'b-')
 
 pause(1)
