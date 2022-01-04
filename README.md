@@ -12,7 +12,7 @@ Documented MATLAB codes are provided illustrating the solutions to each exercise
 
 All code is shared under the MIT license and you can share and adapt it freely. 
 
-Last updated: 11 August 2021
+Last updated: 04 January 2022
 
 
 ## Sample Exercises
